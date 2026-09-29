@@ -1,0 +1,1305 @@
+period,felv,fiv,age_group,breed,sex,sex_neuter,neuter_status,cohabitantcats,lifestyle,concomitant_disorder,c_hct,c_leuco,origin
+2013-2022,0,0,adult,n,f,if,i,single cat,outdoor,n,normal,low,
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,n,low,low,stray
+2013-2022,,1,adult,y,f,nf,n,single cat,outdoor,y,low,normal,
+2023-2025,0,0,kitten,n,m,im,i,multicat,outdoor,y,low,normal,stray
+2023-2025,0,0,senior,y,f,if,i,multicat,indoor,y,,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,low,normal,
+2013-2022,,1,senior,n,m,nm,n,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,normal,
+2013-2022,1,,adult,n,f,if,i,multicat,indoor,y,low,normal,
+2023-2025,,1,senior,n,m,nm,n,multicat,outdoor,y,low,normal,stray
+2023-2025,,1,senior,n,m,nm,n,,indoor,y,,normal,
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,low,high,
+2013-2022,,1,adult,n,f,nf,n,multicat,indoor,y,high,normal,
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,high,normal,private_individual
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,low,high,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,normal,high,stray
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,n,low,normal,
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,im,i,multicat,outdoor,y,low,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,high,low,breeder
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,low,high,shelter
+2013-2022,0,0,adult,y,f,if,i,multicat,indoor,y,normal,normal,breeder
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,low,low,
+2013-2022,,1,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2023-2025,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,normal,
+2023-2025,0,0,kitten,n,m,nm,n,single cat,outdoor,y,high,normal,stray
+2013-2022,,1,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,low,normal,
+2013-2022,1,,senior,n,m,nm,n,single cat,outdoor,y,normal,low,
+2023-2025,1,,adult,n,m,nm,n,multicat,outdoor,n,normal,low,
+2023-2025,,1,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2023-2025,,1,senior,n,m,nm,n,multicat,indoor,y,low,normal,private_individual
+2023-2025,,1,senior,n,f,nf,n,multicat,indoor,y,low,low,
+2023-2025,0,0,senior,n,f,nf,n,,outdoor,y,normal,high,
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,y,high,low,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,low,low,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,1,1,adult,n,f,nf,n,single cat,,y,normal,low,
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,,1,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,kitten,y,m,im,i,multicat,indoor,n,normal,low,breeder
+2013-2022,0,0,senior,n,f,if,i,single cat,,y,,,
+2013-2022,,1,kitten,n,f,if,i,single cat,,y,high,high,
+2013-2022,,1,adult,n,f,if,i,multicat,outdoor,n,normal,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,low,normal,private_individual
+2013-2022,1,,adult,n,f,if,i,single cat,,y,normal,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,,y,low,normal,stray
+2013-2022,0,0,adult,n,m,im,i,multicat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,low,
+2023-2025,,1,senior,n,f,nf,n,single cat,,y,normal,normal,
+2023-2025,0,0,,n,m,nm,n,multicat,outdoor,n,low,high,stray
+2013-2022,,1,senior,n,f,nf,n,single cat,outdoor,y,low,low,
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,low,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,indoor,y,normal,high,stray
+2023-2025,,1,adult,n,m,nm,n,multicat,outdoor,y,low,low,private_individual
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,low,normal,stray
+2023-2025,0,0,senior,y,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,adult,y,f,nf,n,single cat,outdoor,n,normal,normal,
+2013-2022,1,1,adult,n,m,im,i,multicat,outdoor,n,low,normal,stray
+2013-2022,,1,senior,n,f,nf,n,single cat,outdoor,y,low,normal,
+2023-2025,1,,adult,n,f,nf,n,multicat,indoor,y,low,high,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,low,normal,stray
+2013-2022,,1,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,low,high,stray
+2013-2022,0,0,adult,n,f,if,i,single cat,indoor,n,low,normal,shelter
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,low,low,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,f,if,i,single cat,outdoor,y,high,high,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,,1,adult,n,m,im,i,single cat,outdoor,y,low,normal,
+2023-2025,1,,adult,n,m,nm,n,,,y,,,
+2013-2022,,1,adult,n,f,nf,n,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,,normal,
+2013-2022,,1,senior,n,m,nm,n,single cat,outdoor,n,normal,high,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,low,high,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,high,shelter
+2023-2025,0,0,senior,n,f,if,i,single cat,indoor,y,high,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,y,low,high,
+2023-2025,0,0,kitten,n,m,im,i,multicat,,n,low,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,high,normal,
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,y,normal,normal,breeder
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,high,
+2023-2025,1,,senior,n,m,nm,n,single cat,outdoor,y,low,high,
+2013-2022,1,,adult,n,m,nm,n,single cat,indoor,n,low,normal,stray
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,n,normal,low,
+2023-2025,0,0,senior,n,f,nf,n,multicat,,y,normal,high,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,n,,low,
+2013-2022,1,,adult,n,m,im,i,single cat,indoor,n,,,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,indoor,y,normal,normal,breeder
+2013-2022,1,,adult,n,f,nf,n,single cat,outdoor,n,low,low,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,n,normal,low,shelter
+2023-2025,0,0,senior,n,f,if,i,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,shelter
+2013-2022,1,,adult,n,m,im,i,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,y,low,high,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,normal,
+2023-2025,0,0,senior,n,m,im,i,multicat,indoor,y,normal,normal,
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,low,normal,
+2023-2025,0,0,kitten,n,f,nf,n,single cat,indoor,n,normal,low,
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,senior,n,m,im,i,multicat,,n,low,normal,
+2013-2022,,1,senior,n,m,nm,n,multicat,,y,,high,
+2013-2022,1,,kitten,n,f,if,i,single cat,outdoor,y,high,normal,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,,y,normal,normal,
+2013-2022,1,,adult,n,f,nf,n,single cat,,n,normal,low,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,,,
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,n,,,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,,y,normal,normal,
+2023-2025,1,1,adult,n,m,nm,n,multicat,indoor,y,,high,shelter
+2013-2022,,1,senior,n,m,im,i,multicat,indoor,y,low,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,im,i,multicat,,n,high,high,
+2013-2022,0,0,adult,y,m,nm,n,single cat,outdoor,n,,high,breeder
+2013-2022,0,0,kitten,y,f,if,i,multicat,indoor,y,low,normal,breeder
+2023-2025,,1,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,im,i,single cat,outdoor,y,high,high,
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,kitten,y,f,if,i,multicat,indoor,y,low,low,breeder
+2013-2022,0,0,kitten,n,m,nm,n,single cat,outdoor,n,normal,high,breeder
+2023-2025,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,low,high,stray
+2023-2025,0,0,adult,n,m,nm,n,,outdoor,y,,high,
+2023-2025,0,0,kitten,n,m,im,i,,,n,normal,normal,
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,y,normal,high,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,low,normal,stray
+2013-2022,,1,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,n,high,low,stray
+2023-2025,0,0,kitten,y,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,low,stray
+2023-2025,,1,senior,n,m,im,i,single cat,indoor,n,normal,normal,
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,n,normal,normal,stray
+2013-2022,0,0,senior,n,m,im,i,multicat,outdoor,n,low,high,
+2023-2025,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,1,,adult,n,m,nm,n,multicat,outdoor,y,low,low,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,outdoor,y,high,high,stray
+2023-2025,0,0,senior,n,f,nf,n,,outdoor,y,normal,normal,
+2023-2025,1,,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,1,,senior,n,m,nm,n,single cat,indoor,y,low,low,breeder
+2013-2022,1,,kitten,n,m,nm,n,multicat,outdoor,y,,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,single cat,indoor,n,normal,normal,stray
+2013-2022,0,0,senior,y,f,if,i,multicat,indoor,y,,normal,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,shelter
+2013-2022,1,,kitten,n,f,if,i,single cat,indoor,y,high,normal,
+2013-2022,0,0,adult,y,m,nm,n,multicat,indoor,y,normal,normal,breeder
+2013-2022,0,0,adult,y,f,nf,n,single cat,indoor,n,normal,normal,breeder
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,high,normal,
+2023-2025,,1,adult,n,m,nm,n,single cat,outdoor,y,low,low,private_individual
+2023-2025,0,0,adult,y,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,y,low,high,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,y,m,nm,n,multicat,indoor,y,low,low,breeder
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,y,m,im,i,single cat,indoor,y,,low,
+2013-2022,0,0,kitten,n,m,im,i,single cat,outdoor,y,normal,normal,shelter
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,low,low,breeder
+2013-2022,,1,senior,n,f,nf,n,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,high,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,low,high,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2023-2025,1,,kitten,n,f,if,i,single cat,indoor,n,normal,high,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,n,low,low,
+2023-2025,,1,senior,y,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,kitten,y,f,if,i,multicat,indoor,n,low,normal,breeder
+2023-2025,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,private_individual
+2013-2022,1,,kitten,n,m,im,i,single cat,outdoor,y,low,high,shelter
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,y,low,normal,stray
+2013-2022,0,0,adult,y,m,nm,n,single cat,indoor,y,,low,
+2013-2022,,1,adult,n,m,nm,n,multicat,,n,low,normal,
+2013-2022,,1,senior,n,f,nf,n,multicat,indoor,y,normal,normal,
+2023-2025,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,shelter
+2023-2025,,1,adult,y,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,breeder
+2013-2022,0,0,kitten,n,m,im,i,single cat,outdoor,n,normal,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,high,
+2023-2025,1,,senior,n,m,nm,n,single cat,,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,low,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,normal,
+2013-2022,1,1,adult,n,m,nm,n,single cat,,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,y,normal,low,stray
+2023-2025,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,low,
+2023-2025,0,0,kitten,n,m,nm,n,single cat,outdoor,n,normal,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,1,1,kitten,n,f,if,i,single cat,indoor,y,high,high,breeder
+2013-2022,,1,senior,n,f,nf,n,multicat,indoor,y,high,low,
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,n,normal,low,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,low,normal,
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,y,normal,low,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,1,,kitten,y,m,im,i,multicat,indoor,n,,low,stray
+2013-2022,,1,adult,n,f,nf,n,multicat,outdoor,y,low,low,breeder
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,n,normal,low,stray
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,m,im,i,single cat,,n,normal,normal,
+2023-2025,,1,adult,n,f,nf,n,multicat,indoor,y,normal,low,stray
+2013-2022,0,0,senior,y,m,nm,n,multicat,outdoor,n,low,high,breeder
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,,1,adult,n,m,nm,n,single cat,outdoor,n,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,high,
+2013-2022,,1,senior,n,m,im,i,single cat,indoor,y,low,high,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,low,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,high,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,n,low,high,
+2013-2022,0,0,kitten,n,m,im,i,single cat,outdoor,n,low,low,stray
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2023-2025,,1,senior,n,m,nm,n,multicat,outdoor,n,low,low,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,,y,high,low,shelter
+2013-2022,0,0,kitten,n,m,nm,n,single cat,indoor,n,high,low,breeder
+2013-2022,1,,kitten,n,f,if,i,multicat,indoor,n,low,low,stray
+2013-2022,,1,kitten,n,m,im,i,single cat,outdoor,n,normal,low,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,high,high,breeder
+2023-2025,1,,adult,n,f,nf,n,multicat,indoor,y,low,low,stray
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,high,
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,1,,kitten,n,f,nf,n,multicat,indoor,y,high,normal,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,y,normal,high,stray
+2023-2025,1,1,adult,n,m,im,i,,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,,,
+2023-2025,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,low,stray
+2013-2022,0,0,kitten,n,f,if,i,single cat,indoor,n,high,normal,
+2023-2025,0,0,kitten,n,f,if,i,multicat,indoor,n,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,y,low,high,stray
+2013-2022,1,,adult,n,f,if,i,multicat,indoor,y,low,normal,
+2023-2025,0,0,adult,n,m,im,i,,,y,normal,normal,
+2023-2025,1,,adult,n,m,nm,n,,indoor,y,low,normal,stray
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,n,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2023-2025,1,,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,low,normal,
+2023-2025,0,0,kitten,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,,1,adult,n,f,nf,n,single cat,outdoor,y,normal,low,breeder
+2013-2022,,1,senior,n,m,nm,n,multicat,indoor,y,high,low,shelter
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,low,stray
+2023-2025,,1,adult,n,m,nm,n,single cat,indoor,y,low,low,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,,1,adult,n,f,if,i,single cat,indoor,y,low,high,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,n,,high,
+2023-2025,0,0,kitten,n,f,nf,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,low,normal,
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,low,
+2023-2025,0,0,kitten,n,f,if,i,single cat,indoor,y,normal,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,n,normal,high,
+2013-2022,0,0,kitten,n,f,if,i,single cat,outdoor,y,low,low,shelter
+2023-2025,0,0,kitten,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,m,im,i,multicat,outdoor,n,normal,high,stray
+2023-2025,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,normal,
+2013-2022,1,,kitten,n,f,if,i,multicat,indoor,y,low,low,breeder
+2013-2022,1,,adult,y,m,nm,n,multicat,outdoor,y,low,normal,
+2023-2025,1,1,adult,n,m,nm,n,single cat,indoor,y,low,low,stray
+2013-2022,1,,adult,n,f,nf,n,single cat,,n,,,
+2013-2022,,1,senior,n,f,nf,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,y,f,if,i,multicat,indoor,n,normal,normal,breeder
+2013-2022,0,0,adult,n,f,if,i,single cat,outdoor,n,low,low,stray
+2023-2025,0,0,kitten,n,f,nf,n,multicat,outdoor,n,normal,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2023-2025,0,0,adult,y,f,nf,n,multicat,indoor,y,,normal,private_individual
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,normal,normal,shelter
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,1,,adult,n,m,im,i,single cat,outdoor,y,low,low,stray
+2013-2022,1,,adult,n,f,if,i,multicat,indoor,n,low,low,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,n,m,nm,n,single cat,outdoor,y,low,high,
+2023-2025,0,0,kitten,n,f,nf,n,multicat,outdoor,y,low,low,stray
+2023-2025,0,0,senior,n,,,,,,y,,normal,
+2013-2022,0,0,adult,n,m,im,i,single cat,indoor,y,normal,high,stray
+2023-2025,,1,senior,n,f,nf,n,single cat,indoor,y,high,normal,
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,y,low,high,stray
+2013-2022,0,0,kitten,n,m,nm,n,multicat,outdoor,n,normal,normal,stray
+2023-2025,0,0,kitten,y,m,nm,n,multicat,indoor,n,normal,low,breeder
+2013-2022,0,0,kitten,n,f,nf,n,single cat,outdoor,y,high,normal,stray
+2023-2025,,1,adult,n,f,nf,n,single cat,indoor,y,,normal,stray
+2013-2022,,1,senior,n,f,if,i,single cat,indoor,y,low,normal,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,indoor,y,normal,low,breeder
+2023-2025,0,0,adult,n,f,nf,n,single cat,indoor,y,high,normal,private_individual
+2023-2025,1,,adult,n,m,nm,n,multicat,indoor,n,low,low,stray
+2023-2025,0,0,senior,y,m,nm,n,multicat,indoor,y,normal,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,1,1,adult,n,m,im,i,multicat,outdoor,y,normal,high,stray
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2023-2025,1,,adult,n,m,nm,n,single cat,indoor,y,low,high,
+2013-2022,1,1,adult,n,m,nm,n,single cat,indoor,y,,,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,low,high,
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,n,normal,low,
+2023-2025,,1,adult,y,m,nm,n,multicat,outdoor,y,normal,high,shelter
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,y,low,high,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,high,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,low,normal,stray
+2023-2025,1,,adult,n,f,nf,n,multicat,outdoor,y,,high,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,low,high,shelter
+2023-2025,1,,kitten,n,f,if,i,multicat,outdoor,n,low,normal,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,indoor,y,low,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,high,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,n,normal,high,
+2013-2022,0,0,kitten,n,f,nf,n,multicat,,n,high,low,shelter
+2023-2025,1,,adult,n,f,if,i,multicat,indoor,n,low,high,
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,0,0,adult,n,m,nm,n,,outdoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,high,high,
+2013-2022,1,,adult,n,f,nf,n,single cat,outdoor,y,low,low,
+2013-2022,1,,senior,n,m,nm,n,multicat,indoor,y,normal,normal,breeder
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,stray
+2023-2025,0,0,kitten,n,m,im,i,multicat,outdoor,y,normal,high,stray
+2023-2025,0,0,adult,y,m,nm,n,multicat,outdoor,y,low,normal,
+2013-2022,1,,,n,m,im,i,multicat,outdoor,n,low,,stray
+2013-2022,,1,kitten,n,f,nf,n,multicat,indoor,n,low,normal,shelter
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,normal,high,breeder
+2023-2025,1,,adult,n,f,nf,n,single cat,indoor,y,low,low,
+2023-2025,1,,senior,n,f,nf,n,single cat,,y,normal,normal,
+2023-2025,,1,senior,n,m,nm,n,,outdoor,y,,normal,
+2023-2025,,1,senior,n,m,im,i,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,n,low,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,n,normal,low,shelter
+2023-2025,1,1,adult,n,f,if,i,single cat,indoor,y,low,high,private_individual
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,high,normal,stray
+2023-2025,1,,adult,y,f,nf,n,multicat,indoor,y,low,low,breeder
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,normal,high,
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,low,low,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,n,high,low,
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,adult,y,f,nf,n,single cat,indoor,y,normal,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,high,low,stray
+2013-2022,0,0,kitten,y,f,if,i,single cat,,n,high,high,breeder
+2023-2025,1,,kitten,n,m,nm,n,multicat,outdoor,y,low,normal,stray
+2013-2022,1,,kitten,n,m,im,i,multicat,indoor,n,normal,normal,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,n,high,low,shelter
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,high,
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,low,normal,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,low,normal,shelter
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,shelter
+2013-2022,1,,adult,n,f,if,i,single cat,indoor,y,normal,low,
+2013-2022,1,,senior,n,f,if,i,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,high,breeder
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,high,stray
+2023-2025,,1,adult,n,m,im,i,multicat,outdoor,y,low,normal,stray
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,private_individual
+2023-2025,0,0,kitten,n,f,nf,n,single cat,indoor,y,,normal,
+2013-2022,1,,kitten,n,f,if,i,single cat,indoor,y,low,normal,shelter
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,normal,breeder
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,high,
+2013-2022,,1,adult,n,f,if,i,multicat,outdoor,n,,low,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,n,normal,normal,
+2013-2022,,1,senior,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,n,normal,normal,breeder
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,y,m,nm,n,multicat,indoor,n,,normal,breeder
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,single cat,outdoor,y,normal,low,breeder
+2013-2022,0,0,senior,n,m,nm,n,single cat,,y,normal,normal,
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,y,normal,normal,shelter
+2013-2022,1,1,adult,n,m,im,i,single cat,outdoor,y,,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,high,normal,breeder
+2023-2025,,1,senior,n,f,nf,n,single cat,indoor,y,high,high,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,normal,breeder
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,high,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,1,1,senior,n,f,nf,n,single cat,indoor,y,low,normal,shelter
+2013-2022,1,,kitten,n,m,im,i,single cat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,low,normal,
+2023-2025,0,0,kitten,n,f,if,i,multicat,indoor,y,normal,low,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,outdoor,n,normal,normal,stray
+2013-2022,,1,adult,n,f,nf,n,single cat,outdoor,y,high,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,low,low,
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,low,normal,
+2023-2025,,1,adult,n,f,if,i,single cat,,y,normal,normal,
+2013-2022,,1,senior,n,m,im,i,single cat,outdoor,n,low,low,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,high,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,low,low,stray
+2023-2025,0,0,adult,n,m,nm,n,single cat,indoor,n,normal,normal,
+2013-2022,1,,adult,n,m,im,i,single cat,outdoor,y,normal,low,
+2013-2022,0,0,kitten,y,m,nm,n,multicat,indoor,n,normal,normal,breeder
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,,normal,stray
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,low,high,private_individual
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,high,
+2013-2022,,1,senior,n,f,if,i,single cat,indoor,y,,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,n,normal,low,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,low,high,stray
+2013-2022,1,,kitten,n,f,if,i,multicat,indoor,y,,,stray
+2013-2022,1,1,adult,n,f,if,i,multicat,outdoor,n,low,high,stray
+2013-2022,0,0,senior,n,f,if,i,single cat,outdoor,n,,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,,high,
+2023-2025,0,0,kitten,n,m,im,i,multicat,outdoor,y,low,low,stray
+2013-2022,,1,adult,n,m,nm,n,single cat,indoor,y,normal,high,stray
+2023-2025,0,0,kitten,n,m,im,i,single cat,indoor,n,normal,high,stray
+2013-2022,,1,senior,n,m,im,i,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,,n,m,im,i,multicat,outdoor,n,normal,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,,,y,low,normal,private_individual
+2023-2025,1,,senior,n,f,nf,n,single cat,indoor,y,normal,normal,stray
+2023-2025,,1,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,,1,adult,n,m,nm,n,multicat,indoor,y,low,low,stray
+2013-2022,0,0,senior,y,f,if,i,single cat,indoor,y,low,high,
+2023-2025,0,0,senior,n,m,im,i,multicat,outdoor,y,normal,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,low,low,
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,high,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,high,
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,normal,low,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,n,,normal,shelter
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,private_individual
+2023-2025,0,0,kitten,n,f,if,i,multicat,,n,normal,high,shelter
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,low,normal,
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,y,,normal,stray
+2023-2025,1,,kitten,n,f,nf,n,multicat,indoor,y,high,normal,private_individual
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,private_individual
+2013-2022,1,,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,,1,senior,n,m,nm,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,m,im,i,single cat,indoor,y,high,high,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,kitten,n,f,nf,n,multicat,outdoor,y,low,normal,
+2013-2022,0,0,kitten,y,f,if,i,single cat,,n,low,normal,
+2013-2022,1,,senior,n,m,im,i,multicat,outdoor,n,low,normal,stray
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,high,
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,normal,normal,shelter
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,0,0,kitten,y,m,nm,n,single cat,indoor,n,normal,normal,breeder
+2013-2022,1,,adult,n,m,nm,n,single cat,indoor,y,high,normal,
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,low,high,
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,n,normal,low,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,m,nm,n,single cat,indoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,low,high,stray
+2023-2025,,1,senior,n,m,nm,n,,,y,low,low,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,y,low,low,shelter
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,shelter
+2023-2025,0,0,kitten,n,m,im,i,multicat,,n,low,normal,
+2013-2022,,1,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,0,0,kitten,n,m,im,i,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,kitten,y,f,if,i,multicat,indoor,n,normal,low,breeder
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,low,
+2013-2022,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,high,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,senior,y,m,nm,n,single cat,outdoor,y,,high,
+2013-2022,1,,senior,n,m,nm,n,multicat,indoor,y,high,high,
+2023-2025,1,,adult,n,f,nf,n,multicat,outdoor,y,normal,low,
+2023-2025,1,,kitten,n,m,nm,n,multicat,indoor,n,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,low,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,high,
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,high,low,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,low,low,
+2023-2025,0,0,kitten,n,f,nf,n,multicat,outdoor,y,,,stray
+2023-2025,0,0,adult,n,m,nm,n,single cat,outdoor,y,low,low,
+2023-2025,0,0,kitten,n,f,if,i,single cat,indoor,n,normal,normal,private_individual
+2013-2022,,1,senior,n,f,nf,n,single cat,indoor,y,normal,high,stray
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,n,high,normal,
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,n,normal,normal,stray
+2013-2022,,1,senior,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,low,high,
+2013-2022,1,,adult,n,f,nf,n,single cat,outdoor,y,normal,,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,high,
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,y,low,low,shelter
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,low,normal,
+2023-2025,0,0,adult,y,f,if,i,multicat,outdoor,n,low,high,
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,n,normal,normal,
+2013-2022,0,0,kitten,n,f,if,i,single cat,outdoor,n,normal,high,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,low,normal,
+2013-2022,,1,adult,n,m,nm,n,multicat,,y,normal,normal,
+2013-2022,,1,kitten,n,m,im,i,multicat,outdoor,y,low,high,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,n,,high,stray
+2023-2025,1,,kitten,n,m,im,i,single cat,indoor,y,,normal,
+2023-2025,0,0,kitten,n,m,im,i,multicat,,n,low,normal,
+2013-2022,,1,adult,n,f,if,i,single cat,,n,high,low,stray
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,high,
+2023-2025,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,1,,kitten,n,f,if,i,single cat,indoor,n,low,high,stray
+2023-2025,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,kitten,y,f,if,i,multicat,indoor,n,normal,normal,breeder
+2023-2025,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,,1,senior,y,m,nm,n,multicat,indoor,y,normal,normal,breeder
+2013-2022,0,0,kitten,n,m,nm,n,multicat,indoor,n,normal,low,stray
+2023-2025,,1,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,normal,normal,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,f,nf,n,single cat,outdoor,y,high,low,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,n,low,normal,
+2023-2025,0,0,kitten,n,m,im,i,multicat,outdoor,y,normal,high,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,n,normal,normal,stray
+2013-2022,,1,adult,n,f,nf,n,multicat,indoor,y,low,normal,stray
+2013-2022,1,,kitten,n,f,if,i,single cat,indoor,n,normal,low,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,y,normal,high,shelter
+2023-2025,0,0,adult,n,f,nf,n,multicat,outdoor,n,normal,normal,
+2013-2022,0,0,adult,y,m,im,i,multicat,outdoor,n,low,normal,breeder
+2023-2025,,1,adult,n,m,nm,n,multicat,indoor,y,normal,normal,private_individual
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,high,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,high,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,low,stray
+2013-2022,,1,adult,n,m,nm,n,single cat,indoor,y,high,high,stray
+2023-2025,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,m,im,i,multicat,outdoor,n,low,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,n,normal,low,stray
+2023-2025,0,0,kitten,n,f,if,i,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,n,normal,low,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,high,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,high,stray
+2013-2022,1,,adult,n,f,nf,n,single cat,indoor,y,low,high,
+2013-2022,1,,senior,n,f,nf,n,multicat,outdoor,y,normal,high,
+2013-2022,1,,adult,n,f,nf,n,single cat,,y,low,low,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,high,high,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,low,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,normal,normal,stray
+2023-2025,0,0,adult,n,f,nf,n,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,,normal,
+2023-2025,1,,kitten,n,f,if,i,single cat,indoor,n,low,high,stray
+2023-2025,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,,1,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,,1,adult,y,m,nm,n,single cat,indoor,n,normal,normal,stray
+2013-2022,1,,senior,n,m,im,i,multicat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,y,m,im,i,multicat,indoor,y,low,normal,breeder
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2013-2022,1,,adult,n,f,nf,n,single cat,indoor,n,low,high,
+2013-2022,0,0,kitten,n,f,nf,n,multicat,,n,high,low,shelter
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,y,,,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,high,stray
+2013-2022,0,0,kitten,y,m,im,i,single cat,indoor,n,low,high,breeder
+2013-2022,0,0,senior,n,f,if,i,multicat,indoor,y,low,normal,
+2023-2025,,1,adult,n,m,nm,n,multicat,indoor,y,low,low,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,,1,senior,n,m,im,i,single cat,,y,low,,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,n,low,high,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,breeder
+2023-2025,0,0,kitten,n,f,nf,n,single cat,indoor,y,normal,high,shelter
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,n,normal,low,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,0,0,senior,y,f,nf,n,multicat,outdoor,y,low,high,breeder
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,n,normal,high,stray
+2023-2025,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,shelter
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,1,1,adult,n,m,nm,n,multicat,,y,low,normal,stray
+2023-2025,0,0,kitten,n,m,im,i,multicat,indoor,y,normal,high,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,high,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,n,normal,low,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,low,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,low,low,stray
+2023-2025,0,0,senior,y,f,nf,n,multicat,indoor,y,normal,high,
+2023-2025,0,0,kitten,n,m,im,i,multicat,outdoor,n,normal,high,stray
+2023-2025,,1,senior,n,m,im,i,single cat,outdoor,y,normal,normal,stray
+2013-2022,1,,senior,n,f,nf,n,single cat,outdoor,y,low,low,stray
+2023-2025,1,,adult,n,f,if,i,multicat,outdoor,y,low,low,stray
+2013-2022,0,0,adult,y,f,nf,n,single cat,indoor,y,low,normal,breeder
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,low,normal,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,high,high,private_individual
+2023-2025,0,0,kitten,n,f,if,i,multicat,,y,low,low,shelter
+2013-2022,0,0,kitten,n,f,nf,n,multicat,outdoor,y,high,normal,breeder
+2023-2025,0,0,adult,n,f,if,i,single cat,,y,normal,high,
+2023-2025,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,1,,adult,n,m,nm,n,single cat,outdoor,y,low,low,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,low,normal,
+2023-2025,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,high,low,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,1,1,adult,n,f,nf,n,multicat,outdoor,y,low,normal,
+2013-2022,0,0,adult,n,f,if,i,multicat,indoor,y,low,normal,
+2013-2022,0,0,kitten,y,f,if,i,single cat,indoor,y,normal,normal,breeder
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,low,high,stray
+2023-2025,0,0,adult,n,f,nf,n,multicat,,y,low,high,stray
+2013-2022,0,0,kitten,y,f,if,i,multicat,indoor,y,high,normal,breeder
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,high,stray
+2023-2025,1,1,adult,n,f,nf,n,multicat,outdoor,y,low,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,low,normal,
+2023-2025,0,0,senior,n,m,im,i,,indoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,low,stray
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,low,low,
+2013-2022,,1,senior,n,m,nm,n,multicat,outdoor,y,normal,low,
+2013-2022,0,0,kitten,y,f,nf,n,multicat,indoor,y,normal,normal,breeder
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,low,normal,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,indoor,y,low,high,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,y,low,high,
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,low,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,senior,n,f,if,i,single cat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,high,high,
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,n,normal,high,
+2013-2022,0,0,adult,y,m,nm,n,single cat,outdoor,y,low,normal,
+2023-2025,0,0,senior,n,m,nm,n,multicat,,y,normal,high,
+2013-2022,1,,adult,n,f,nf,n,single cat,outdoor,y,low,normal,
+2013-2022,0,0,,n,m,nm,n,single cat,outdoor,y,low,normal,stray
+2023-2025,0,0,kitten,y,m,im,i,multicat,indoor,n,normal,low,breeder
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,low,high,stray
+2013-2022,,1,senior,n,m,nm,n,single cat,indoor,y,normal,normal,shelter
+2023-2025,1,,senior,n,m,im,i,single cat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,,1,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,1,1,adult,n,m,im,i,,indoor,y,low,normal,
+2013-2022,0,0,senior,n,f,if,i,single cat,indoor,y,normal,normal,breeder
+2023-2025,0,0,kitten,n,m,im,i,multicat,indoor,y,low,high,shelter
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,n,normal,low,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2023-2025,,1,senior,n,f,nf,n,single cat,outdoor,y,low,high,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,low,
+2023-2025,1,,adult,n,m,nm,n,multicat,indoor,y,normal,low,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,high,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,,,stray
+2013-2022,0,0,adult,n,f,if,i,single cat,indoor,n,normal,normal,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,,1,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,kitten,n,f,if,i,single cat,indoor,y,normal,low,breeder
+2023-2025,0,0,senior,y,m,nm,n,single cat,indoor,y,normal,normal,private_individual
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,normal,normal,stray
+2013-2022,1,,adult,n,m,im,i,multicat,outdoor,n,normal,normal,
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,y,normal,low,shelter
+2013-2022,0,0,kitten,n,m,nm,n,single cat,indoor,n,normal,normal,stray
+2013-2022,1,,adult,n,m,im,i,multicat,outdoor,y,low,high,stray
+2013-2022,1,1,adult,n,m,nm,n,single cat,outdoor,n,low,low,
+2023-2025,1,1,senior,n,m,nm,n,single cat,outdoor,y,low,high,stray
+2023-2025,0,0,kitten,y,m,im,i,multicat,indoor,n,low,normal,private_individual
+2013-2022,,1,adult,n,m,im,i,multicat,outdoor,y,normal,normal,breeder
+2013-2022,1,1,adult,n,m,nm,n,multicat,outdoor,n,high,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,n,low,low,stray
+2013-2022,1,,adult,n,f,if,i,multicat,,y,low,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,high,shelter
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,low,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,high,stray
+2023-2025,0,0,adult,y,m,im,i,multicat,indoor,y,normal,low,breeder
+2013-2022,0,0,senior,y,m,nm,n,multicat,outdoor,y,normal,normal,breeder
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,low,normal,
+2013-2022,0,0,kitten,n,f,if,i,single cat,indoor,y,normal,normal,stray
+2013-2022,,1,senior,n,m,nm,n,single cat,,y,normal,normal,stray
+2013-2022,0,0,kitten,y,m,im,i,single cat,indoor,n,low,high,breeder
+2013-2022,1,,adult,n,m,im,i,single cat,indoor,y,low,normal,stray
+2013-2022,1,,kitten,n,m,im,i,single cat,outdoor,y,low,normal,
+2023-2025,0,0,adult,y,m,im,i,,outdoor,y,low,normal,
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,normal,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,n,low,normal,shelter
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,outdoor,y,,,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,low,normal,
+2023-2025,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,,1,senior,n,f,if,i,multicat,indoor,y,low,high,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,low,normal,shelter
+2023-2025,0,0,senior,y,f,nf,n,single cat,indoor,y,low,normal,
+2013-2022,1,,senior,n,f,nf,n,multicat,outdoor,n,normal,high,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,high,low,
+2023-2025,0,0,senior,n,m,nm,n,single cat,,y,high,normal,shelter
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,im,i,multicat,indoor,n,high,normal,breeder
+2023-2025,1,,adult,n,f,if,i,single cat,outdoor,y,,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,low,high,breeder
+2013-2022,0,0,adult,n,f,nf,n,multicat,,y,normal,low,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,n,high,low,shelter
+2023-2025,0,0,adult,n,f,nf,n,multicat,,y,high,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,n,low,normal,
+2023-2025,0,0,kitten,n,f,if,i,single cat,,y,low,normal,stray
+2013-2022,1,,adult,n,f,if,i,multicat,outdoor,y,normal,high,
+2013-2022,,1,senior,n,f,nf,n,single cat,,y,,,
+2023-2025,,1,adult,n,f,nf,n,multicat,indoor,y,normal,normal,shelter
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,n,low,low,
+2013-2022,,1,adult,n,m,nm,n,single cat,outdoor,y,normal,low,
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,n,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,n,high,normal,
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,low,normal,stray
+2023-2025,,1,adult,n,m,im,i,multicat,outdoor,n,low,high,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,low,high,
+2023-2025,0,0,kitten,n,m,im,i,multicat,indoor,y,normal,high,private_individual
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,low,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,n,normal,low,breeder
+2013-2022,1,,adult,n,f,nf,n,single cat,,y,low,normal,
+2023-2025,0,0,adult,n,f,nf,n,multicat,,y,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2023-2025,,1,adult,n,m,nm,n,multicat,outdoor,y,low,high,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,,y,low,high,
+2023-2025,0,0,senior,n,f,nf,n,multicat,,y,high,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,high,shelter
+2023-2025,0,0,senior,y,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,,high,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,,1,adult,n,f,nf,n,multicat,outdoor,y,normal,low,stray
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,
+2013-2022,,1,adult,n,f,if,i,single cat,outdoor,y,normal,low,
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,n,normal,normal,
+2013-2022,,1,adult,n,m,nm,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,senior,y,f,nf,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,low,normal,
+2013-2022,,1,adult,n,m,nm,n,single cat,outdoor,y,,,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,outdoor,n,low,high,shelter
+2023-2025,0,0,senior,n,f,if,i,single cat,indoor,y,normal,normal,private_individual
+2013-2022,0,0,adult,n,m,im,i,single cat,outdoor,n,high,high,breeder
+2023-2025,1,,kitten,n,m,im,i,multicat,,y,low,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,y,,,stray
+2013-2022,0,0,senior,n,f,nf,n,multicat,,y,low,normal,stray
+2023-2025,,1,adult,n,m,nm,n,single cat,indoor,y,low,low,shelter
+2023-2025,0,0,adult,n,m,im,i,single cat,indoor,n,high,low,stray
+2013-2022,,1,kitten,n,f,nf,n,single cat,outdoor,y,normal,normal,breeder
+2023-2025,,1,adult,n,m,nm,n,single cat,outdoor,y,normal,high,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,low,normal,breeder
+2013-2022,0,0,kitten,n,m,im,i,multicat,,y,normal,normal,
+2023-2025,0,0,kitten,y,m,im,i,multicat,indoor,n,,normal,private_individual
+2023-2025,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,low,
+2013-2022,1,1,adult,y,m,nm,n,multicat,outdoor,y,low,normal,shelter
+2013-2022,0,0,kitten,n,m,nm,n,multicat,indoor,n,,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,high,breeder
+2023-2025,,1,adult,n,m,nm,n,single cat,,y,low,normal,
+2013-2022,,1,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,breeder
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,normal,stray
+2023-2025,0,0,senior,y,m,nm,n,multicat,indoor,y,,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,low,normal,
+2013-2022,,1,adult,n,m,im,i,multicat,outdoor,y,low,low,
+2023-2025,1,,senior,n,m,nm,n,multicat,outdoor,y,,normal,
+2013-2022,1,,senior,n,m,im,i,multicat,,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,n,high,normal,
+2013-2022,1,1,adult,n,m,nm,n,single cat,indoor,y,normal,low,
+2013-2022,1,,kitten,n,m,nm,n,single cat,,n,low,high,shelter
+2013-2022,1,,adult,n,m,im,i,single cat,indoor,n,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,,,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,,normal,
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,,normal,private_individual
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,,1,kitten,n,m,im,i,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,n,normal,normal,
+2013-2022,0,0,adult,n,m,im,i,single cat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,low,normal,
+2013-2022,1,1,kitten,n,f,if,i,multicat,indoor,n,low,normal,stray
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,low,high,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,y,m,im,i,multicat,indoor,n,normal,high,breeder
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,y,high,high,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,,,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,high,normal,stray
+2013-2022,0,0,adult,y,f,nf,n,single cat,indoor,y,normal,normal,
+2023-2025,1,,adult,n,m,nm,n,multicat,indoor,y,low,low,
+2013-2022,,1,senior,n,m,nm,n,single cat,,n,normal,high,
+2013-2022,0,0,senior,n,f,if,i,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,y,,,
+2023-2025,0,0,kitten,n,f,if,i,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,high,normal,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,low,high,stray
+2013-2022,1,,adult,n,f,if,i,single cat,,y,,,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,,low,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,high,
+2013-2022,0,0,adult,n,m,im,i,multicat,outdoor,n,normal,high,
+2013-2022,1,,senior,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,,1,kitten,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2023-2025,1,1,kitten,n,f,if,i,single cat,,n,normal,low,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,high,high,
+2023-2025,1,,kitten,n,m,im,i,single cat,indoor,y,low,high,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,low,normal,
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,n,low,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,low,low,breeder
+2023-2025,,1,senior,n,f,nf,n,single cat,indoor,y,high,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,high,
+2013-2022,1,,kitten,n,f,nf,n,single cat,indoor,y,low,low,stray
+2013-2022,,1,senior,n,m,nm,n,multicat,indoor,y,,normal,
+2013-2022,,1,adult,n,m,nm,n,multicat,indoor,y,normal,high,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,low,
+2013-2022,,1,adult,n,f,nf,n,single cat,indoor,n,normal,low,shelter
+2013-2022,1,,kitten,n,f,if,i,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,n,high,low,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,low,low,breeder
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,high,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,,,
+2013-2022,0,0,kitten,n,f,if,i,single cat,outdoor,y,high,normal,stray
+2013-2022,1,1,senior,n,m,im,i,multicat,outdoor,y,normal,high,
+2023-2025,0,0,adult,n,f,if,i,multicat,indoor,y,normal,normal,shelter
+2023-2025,0,0,kitten,n,m,nm,n,single cat,indoor,y,normal,normal,shelter
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,low,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,low,high,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,high,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,,high,
+2023-2025,0,0,kitten,n,m,im,i,single cat,indoor,n,,high,shelter
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,normal,private_individual
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,,,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,n,high,normal,stray
+2013-2022,1,,adult,n,m,nm,n,single cat,indoor,n,normal,low,
+2013-2022,,1,adult,n,m,nm,n,single cat,outdoor,n,normal,normal,
+2013-2022,0,0,kitten,n,f,nf,n,multicat,outdoor,y,low,low,stray
+2013-2022,1,,adult,n,f,nf,n,single cat,indoor,y,low,high,shelter
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,high,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,indoor,y,low,low,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,low,high,stray
+2013-2022,0,0,adult,n,f,if,i,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,normal,normal,
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,high,
+2013-2022,0,0,senior,n,f,if,i,multicat,indoor,y,low,normal,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,indoor,n,normal,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,y,low,normal,
+2013-2022,1,,kitten,n,f,nf,n,multicat,outdoor,y,high,normal,stray
+2013-2022,0,0,adult,n,m,im,i,multicat,,y,high,low,
+2013-2022,,1,senior,n,m,nm,n,single cat,,n,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,breeder
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,adult,y,m,nm,n,multicat,indoor,y,normal,normal,breeder
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,,1,kitten,n,f,if,i,multicat,indoor,y,,high,breeder
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,y,low,normal,stray
+2013-2022,,1,senior,n,m,nm,n,single cat,outdoor,y,,,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,low,stray
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,n,normal,low,
+2013-2022,,1,senior,n,m,nm,n,multicat,outdoor,y,high,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,,,shelter
+2023-2025,,1,adult,n,m,nm,n,multicat,indoor,y,normal,high,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,high,
+2013-2022,0,0,senior,y,m,nm,n,multicat,indoor,y,,,
+2013-2022,1,,adult,n,f,nf,n,single cat,,y,normal,normal,
+2023-2025,,1,senior,n,f,nf,n,single cat,,y,low,high,
+2023-2025,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,1,,kitten,n,f,if,i,multicat,indoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,,y,,,
+2013-2022,0,0,kitten,y,m,im,i,single cat,,n,low,normal,
+2023-2025,0,0,kitten,n,f,nf,n,multicat,indoor,y,high,normal,shelter
+2023-2025,,1,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,low,
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,low,low,stray
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,high,
+2013-2022,1,,kitten,n,f,if,i,single cat,,y,low,normal,stray
+2013-2022,,1,senior,n,m,nm,n,single cat,indoor,y,normal,high,
+2023-2025,,1,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,1,1,adult,n,m,nm,n,multicat,indoor,y,low,low,
+2023-2025,0,0,adult,n,f,if,i,single cat,indoor,y,normal,normal,
+2013-2022,1,,senior,n,f,nf,n,multicat,outdoor,y,low,low,stray
+2013-2022,1,,kitten,n,f,nf,n,multicat,outdoor,y,low,,stray
+2013-2022,,1,adult,n,m,nm,n,single cat,indoor,y,low,normal,stray
+2023-2025,1,,kitten,n,m,nm,n,multicat,indoor,y,normal,low,stray
+2013-2022,1,1,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,,1,senior,n,m,nm,n,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,high,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,n,normal,high,
+2013-2022,0,0,senior,n,f,if,i,multicat,indoor,y,normal,normal,
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,0,0,senior,n,f,if,i,single cat,,y,normal,low,
+2023-2025,0,0,kitten,n,f,nf,n,multicat,outdoor,y,low,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,high,
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,y,high,high,shelter
+2023-2025,1,,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2023-2025,,1,senior,n,f,nf,n,multicat,indoor,y,normal,normal,
+2023-2025,,1,senior,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,f,if,i,multicat,,n,normal,low,
+2013-2022,0,0,kitten,n,m,nm,n,single cat,indoor,n,normal,low,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,n,normal,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,y,,high,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,0,0,kitten,y,m,im,i,multicat,indoor,n,low,normal,private_individual
+2013-2022,0,0,senior,n,m,nm,n,multicat,,y,low,high,stray
+2023-2025,0,0,adult,y,f,nf,n,multicat,outdoor,y,normal,low,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,n,high,low,stray
+2023-2025,0,0,adult,y,m,nm,n,single cat,indoor,y,,low,breeder
+2013-2022,0,0,senior,n,f,if,i,single cat,indoor,y,high,normal,
+2013-2022,1,,kitten,n,f,nf,n,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,high,
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,n,high,normal,stray
+2013-2022,1,,adult,n,f,nf,n,single cat,indoor,y,low,low,stray
+2023-2025,1,,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,low,high,
+2013-2022,,1,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,1,,senior,n,f,nf,n,multicat,indoor,y,low,high,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,high,normal,
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,kitten,y,m,im,i,single cat,indoor,n,normal,low,breeder
+2023-2025,0,0,adult,n,f,nf,n,multicat,,n,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,kitten,n,f,if,i,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,high,normal,
+2013-2022,,1,,n,m,im,i,single cat,outdoor,y,low,normal,stray
+2013-2022,0,0,adult,n,m,im,i,multicat,outdoor,n,normal,high,
+2023-2025,0,0,adult,y,m,nm,n,multicat,outdoor,y,normal,low,private_individual
+2023-2025,,1,senior,n,m,nm,n,single cat,indoor,y,low,low,
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,y,,high,shelter
+2013-2022,0,0,adult,y,f,nf,n,multicat,outdoor,y,normal,normal,breeder
+2013-2022,0,0,senior,n,m,im,i,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,y,low,normal,stray
+2013-2022,1,1,adult,n,m,im,i,multicat,outdoor,y,low,high,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,adult,y,f,nf,n,multicat,indoor,y,low,normal,breeder
+2023-2025,1,,adult,n,f,nf,n,multicat,outdoor,n,normal,high,stray
+2023-2025,,1,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,low,low,breeder
+2013-2022,0,0,senior,n,f,nf,n,multicat,indoor,n,normal,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,n,high,low,stray
+2023-2025,0,0,kitten,n,f,if,i,multicat,indoor,n,low,normal,
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,y,low,high,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,y,normal,low,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,low,low,stray
+2013-2022,0,0,senior,y,m,nm,n,multicat,indoor,y,low,high,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,,1,adult,n,f,if,i,single cat,indoor,y,normal,high,private_individual
+2023-2025,0,0,kitten,n,m,im,i,single cat,indoor,y,high,low,shelter
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,shelter
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,0,0,kitten,y,f,if,i,multicat,indoor,n,,low,private_individual
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,high,
+2023-2025,0,0,senior,n,f,if,i,single cat,indoor,y,low,low,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,high,normal,
+2013-2022,0,0,kitten,n,f,if,i,single cat,outdoor,n,low,low,shelter
+2023-2025,1,,adult,n,m,nm,n,multicat,indoor,y,low,low,
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,y,normal,normal,stray
+2013-2022,1,,senior,n,m,nm,n,multicat,indoor,y,low,normal,stray
+2013-2022,1,,adult,n,f,nf,n,single cat,indoor,y,low,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,high,
+2013-2022,,1,kitten,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2023-2025,1,,adult,n,f,nf,n,single cat,,y,low,high,stray
+2023-2025,1,,kitten,n,m,nm,n,multicat,,y,,normal,
+2013-2022,1,,adult,y,m,nm,n,multicat,indoor,y,low,high,breeder
+2013-2022,0,0,adult,n,f,if,i,single cat,indoor,y,normal,normal,stray
+2013-2022,1,1,adult,n,m,nm,n,single cat,indoor,y,low,normal,shelter
+2023-2025,1,,senior,n,f,nf,n,multicat,outdoor,y,low,high,stray
+2023-2025,0,0,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,m,nm,n,single cat,outdoor,n,low,normal,shelter
+2013-2022,0,0,kitten,n,m,nm,n,multicat,indoor,n,high,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,n,normal,normal,stray
+2013-2022,1,,adult,n,m,im,i,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,kitten,n,m,nm,n,multicat,outdoor,y,low,normal,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,n,low,normal,stray
+2023-2025,1,,adult,n,f,nf,n,multicat,outdoor,y,low,high,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,indoor,n,low,normal,breeder
+2013-2022,,1,senior,n,m,im,i,single cat,outdoor,y,,normal,
+2013-2022,1,,adult,n,m,im,i,multicat,outdoor,n,,normal,
+2013-2022,1,,adult,n,f,if,i,multicat,,n,normal,low,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,high,shelter
+2023-2025,0,0,senior,n,f,if,i,multicat,outdoor,y,normal,normal,private_individual
+2013-2022,0,0,adult,n,m,im,i,multicat,outdoor,y,high,high,
+2013-2022,,1,senior,n,m,nm,n,single cat,outdoor,y,low,normal,stray
+2023-2025,0,0,adult,y,m,nm,n,multicat,indoor,y,low,high,
+2023-2025,0,0,kitten,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,1,1,adult,n,m,im,i,single cat,,y,low,normal,
+2013-2022,1,,adult,n,f,if,i,multicat,outdoor,y,high,normal,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,breeder
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,,normal,
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,y,normal,high,
+2023-2025,,1,senior,n,m,im,i,multicat,outdoor,y,low,high,stray
+2023-2025,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,stray
+2013-2022,,1,kitten,n,f,if,i,multicat,indoor,y,normal,normal,breeder
+2023-2025,,1,adult,n,f,nf,n,single cat,outdoor,y,high,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2023-2025,0,0,adult,n,f,if,i,single cat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,normal,low,breeder
+2013-2022,,1,adult,n,m,nm,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,n,normal,low,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,n,normal,normal,shelter
+2013-2022,,1,senior,n,f,if,i,multicat,outdoor,y,high,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,high,low,
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,low,normal,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,y,,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,,normal,stray
+2023-2025,0,0,kitten,n,m,nm,n,multicat,outdoor,y,low,low,stray
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,m,im,i,multicat,indoor,y,normal,normal,
+2013-2022,,1,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,n,normal,low,
+2013-2022,,1,senior,n,m,nm,n,multicat,indoor,y,high,normal,
+2023-2025,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,,1,adult,n,m,im,i,single cat,outdoor,y,normal,normal,breeder
+2023-2025,0,0,adult,y,m,nm,n,multicat,indoor,n,normal,normal,private_individual
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,high,high,shelter
+2013-2022,0,0,senior,n,f,if,i,single cat,indoor,y,low,high,shelter
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,high,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,n,normal,low,
+2023-2025,0,0,adult,n,f,nf,n,single cat,,y,low,normal,
+2013-2022,1,,adult,n,f,nf,n,single cat,indoor,y,low,low,shelter
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,im,i,multicat,,y,high,normal,
+2023-2025,1,,adult,n,f,nf,n,multicat,indoor,y,high,low,
+2013-2022,1,,adult,n,m,nm,n,multicat,,n,low,normal,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,outdoor,y,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,breeder
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,low,high,
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,low,normal,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,outdoor,y,low,high,
+2013-2022,0,0,adult,n,m,im,i,single cat,indoor,n,high,high,
+2023-2025,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2013-2022,,1,kitten,n,m,nm,n,multicat,indoor,n,high,low,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,y,normal,high,breeder
+2023-2025,0,0,kitten,n,f,if,i,single cat,indoor,n,low,low,private_individual
+2023-2025,0,0,senior,y,m,nm,n,single cat,,y,normal,high,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,high,normal,
+2023-2025,0,0,adult,y,f,nf,n,single cat,outdoor,y,low,high,private_individual
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,high,normal,
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,y,high,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,low,high,stray
+2013-2022,,1,senior,n,m,im,i,multicat,indoor,y,,low,
+2013-2022,0,0,senior,n,f,nf,n,single cat,,y,normal,high,
+2013-2022,,1,adult,n,m,im,i,single cat,outdoor,y,normal,,stray
+2013-2022,1,,adult,n,f,if,i,single cat,,y,,,
+2023-2025,,1,senior,n,m,nm,n,single cat,indoor,y,low,normal,shelter
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,y,high,high,stray
+2023-2025,1,,senior,n,f,nf,n,single cat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,
+2023-2025,0,0,adult,y,m,im,i,multicat,indoor,n,normal,low,breeder
+2013-2022,0,0,kitten,n,m,im,i,multicat,,y,low,low,
+2023-2025,0,0,adult,y,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,,1,adult,n,m,im,i,multicat,outdoor,y,normal,normal,stray
+2013-2022,1,1,adult,n,m,nm,n,single cat,,y,low,normal,
+2013-2022,,1,adult,y,f,nf,n,multicat,outdoor,y,,normal,
+2023-2025,0,0,adult,y,m,im,i,,indoor,y,normal,high,
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,,,private_individual
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,high,
+2023-2025,0,0,kitten,y,m,im,i,multicat,indoor,y,normal,normal,
+2023-2025,1,1,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,private_individual
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,1,,adult,n,m,im,i,multicat,indoor,y,normal,normal,breeder
+2013-2022,,1,adult,n,m,nm,n,single cat,indoor,y,high,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,high,normal,shelter
+2023-2025,0,0,senior,n,f,nf,n,multicat,outdoor,y,low,normal,
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,high,stray
+2023-2025,,1,adult,n,m,nm,n,single cat,outdoor,n,high,high,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,outdoor,n,normal,low,shelter
+2013-2022,,1,adult,n,m,im,i,multicat,outdoor,y,low,high,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,n,normal,normal,
+2023-2025,1,1,adult,n,f,if,i,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,n,high,normal,shelter
+2013-2022,,1,adult,n,m,im,i,multicat,outdoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,,y,,high,stray
+2023-2025,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,shelter
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,,high,stray
+2013-2022,1,,kitten,n,f,if,i,single cat,,y,normal,normal,stray
+2013-2022,1,1,adult,n,m,nm,n,single cat,outdoor,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2023-2025,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,private_individual
+2023-2025,0,0,adult,y,m,im,i,multicat,indoor,y,normal,normal,
+2013-2022,,1,adult,n,m,nm,n,single cat,outdoor,y,low,high,shelter
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,
+2013-2022,,1,adult,n,f,if,i,multicat,indoor,y,high,normal,shelter
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,normal,low,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,y,,normal,
+2013-2022,1,,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,f,nf,n,multicat,outdoor,y,low,normal,stray
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,low,shelter
+2013-2022,0,0,kitten,y,f,if,i,multicat,indoor,n,low,normal,
+2023-2025,0,0,kitten,n,m,im,i,multicat,,y,low,high,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,outdoor,n,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,high,normal,stray
+2013-2022,,1,senior,n,f,nf,n,single cat,outdoor,n,normal,normal,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,low,
+2013-2022,0,0,adult,y,f,if,i,multicat,outdoor,y,normal,high,breeder
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,n,normal,normal,stray
+2013-2022,,1,adult,n,f,if,i,single cat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,im,i,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,low,normal,shelter
+2023-2025,,1,adult,n,m,nm,n,single cat,,y,low,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,outdoor,y,low,high,
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,high,
+2013-2022,,1,adult,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,breeder
+2013-2022,0,0,senior,n,f,if,i,single cat,indoor,y,normal,normal,
+2013-2022,0,0,kitten,n,f,if,i,single cat,outdoor,n,low,low,stray
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,,high,private_individual
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,n,normal,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,single cat,indoor,n,normal,low,shelter
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,high,high,
+2023-2025,0,0,adult,n,f,nf,n,single cat,outdoor,y,low,normal,
+2023-2025,1,1,adult,n,m,im,i,multicat,outdoor,y,low,low,stray
+2013-2022,1,,adult,n,m,nm,n,single cat,outdoor,y,normal,low,stray
+2013-2022,0,0,senior,y,m,nm,n,single cat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,if,i,multicat,indoor,y,high,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,single cat,indoor,y,low,high,breeder
+2013-2022,,1,adult,n,m,im,i,multicat,outdoor,n,normal,high,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,1,,adult,n,f,if,i,multicat,outdoor,y,normal,low,stray
+2013-2022,1,,adult,n,f,nf,n,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,outdoor,y,low,high,stray
+2023-2025,,1,senior,n,m,nm,n,multicat,indoor,y,normal,high,
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,,normal,stray
+2013-2022,,1,kitten,n,m,nm,n,single cat,outdoor,y,normal,high,stray
+2013-2022,0,0,senior,n,f,if,i,single cat,indoor,y,normal,low,
+2013-2022,0,0,adult,n,m,im,i,single cat,indoor,n,low,low,stray
+2013-2022,0,0,adult,n,m,im,i,multicat,indoor,y,,high,
+2013-2022,,1,adult,n,m,nm,n,multicat,outdoor,n,normal,low,
+2023-2025,1,,senior,n,m,im,i,multicat,indoor,y,normal,normal,stray
+2023-2025,,1,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,,1,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,adult,y,m,nm,n,multicat,indoor,y,normal,low,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,low,low,
+2013-2022,,1,adult,n,m,nm,n,single cat,outdoor,y,normal,high,
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,low,high,
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,normal,stray
+2013-2022,1,,adult,n,m,nm,n,single cat,outdoor,y,normal,low,stray
+2013-2022,0,0,senior,y,m,nm,n,single cat,indoor,y,low,normal,breeder
+2013-2022,1,,adult,n,m,im,i,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,adult,y,f,nf,n,multicat,indoor,n,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,low,stray
+2023-2025,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,high,
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,n,low,low,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,y,normal,normal,
+2013-2022,1,,adult,n,f,nf,n,single cat,outdoor,n,low,low,stray
+2023-2025,0,0,kitten,n,f,if,i,multicat,outdoor,y,normal,high,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,n,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,high,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,n,high,high,
+2013-2022,,1,senior,n,m,nm,n,single cat,indoor,n,low,high,
+2023-2025,0,0,adult,n,f,nf,n,single cat,,y,normal,normal,
+2013-2022,0,0,kitten,n,m,im,i,single cat,indoor,n,low,high,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,y,low,high,
+2013-2022,,1,senior,n,m,nm,n,multicat,indoor,y,normal,low,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,high,
+2013-2022,,1,senior,n,f,nf,n,multicat,indoor,n,normal,normal,stray
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,low,normal,
+2023-2025,0,0,kitten,n,m,nm,n,single cat,,n,low,normal,shelter
+2013-2022,1,1,adult,n,f,if,i,multicat,outdoor,y,low,high,stray
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,n,normal,low,breeder
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,low,low,stray
+2013-2022,0,0,kitten,n,m,nm,n,multicat,outdoor,n,,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,1,,adult,n,f,nf,n,multicat,indoor,y,normal,high,stray
+2013-2022,1,,adult,n,f,nf,n,single cat,indoor,y,normal,normal,
+2013-2022,,1,senior,y,m,nm,n,multicat,indoor,y,high,normal,
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,y,low,normal,stray
+2013-2022,1,,adult,n,f,nf,n,multicat,,y,,high,breeder
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,normal,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,low,normal,stray
+2023-2025,1,,adult,n,m,nm,n,multicat,outdoor,n,normal,normal,stray
+2023-2025,0,0,adult,y,f,nf,n,single cat,,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,normal,low,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,normal,low,stray
+2013-2022,1,1,adult,n,f,nf,n,single cat,outdoor,y,low,high,shelter
+2013-2022,0,0,kitten,n,m,nm,n,single cat,,y,normal,normal,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,normal,
+2013-2022,1,,adult,n,m,nm,n,single cat,outdoor,y,high,normal,
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,
+2023-2025,1,,adult,n,m,nm,n,multicat,,n,normal,high,
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,1,,kitten,y,f,nf,n,single cat,indoor,y,normal,normal,breeder
+2013-2022,1,,kitten,n,f,if,i,multicat,outdoor,y,low,high,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,1,,adult,n,m,nm,n,multicat,indoor,y,low,high,
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,low,low,shelter
+2013-2022,1,,senior,n,m,nm,n,multicat,indoor,y,low,high,stray
+2013-2022,,1,adult,n,f,nf,n,multicat,outdoor,y,low,normal,stray
+2013-2022,,1,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,senior,y,f,nf,n,multicat,indoor,n,low,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,y,normal,low,stray
+2023-2025,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,,1,adult,n,f,nf,n,single cat,outdoor,n,normal,low,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,indoor,y,normal,high,
+2013-2022,0,0,adult,y,m,im,i,multicat,indoor,n,normal,low,breeder
+2013-2022,1,,kitten,n,m,im,i,multicat,indoor,n,normal,normal,shelter
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,y,low,high,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,,normal,
+2013-2022,0,0,adult,y,f,nf,n,single cat,indoor,y,normal,low,
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,normal,normal,
+2023-2025,,1,senior,n,m,nm,n,single cat,outdoor,y,low,normal,stray
+2013-2022,1,,adult,n,m,nm,n,single cat,outdoor,y,low,normal,stray
+2013-2022,1,,kitten,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,single cat,,y,normal,low,stray
+2023-2025,0,0,adult,y,m,nm,n,single cat,outdoor,n,low,normal,breeder
+2023-2025,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2023-2025,0,0,senior,n,f,nf,n,single cat,indoor,y,high,normal,
+2013-2022,1,,kitten,n,f,if,i,single cat,outdoor,n,normal,low,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,high,
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,normal,
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,low,low,
+2023-2025,0,0,kitten,n,f,nf,n,multicat,outdoor,n,low,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,normal,normal,breeder
+2023-2025,0,0,adult,n,m,nm,n,multicat,outdoor,y,low,normal,
+2013-2022,0,0,senior,n,f,nf,n,single cat,indoor,y,high,normal,shelter
+2023-2025,0,0,senior,n,m,nm,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,low,low,stray
+2023-2025,1,,kitten,n,f,nf,n,multicat,,n,low,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,low,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,breeder
+2023-2025,1,,adult,n,m,im,i,multicat,indoor,y,low,normal,
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,n,,high,
+2013-2022,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,indoor,n,normal,normal,stray
+2013-2022,0,0,adult,n,f,if,i,multicat,indoor,n,low,normal,
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,high,normal,
+2023-2025,1,,kitten,n,m,nm,n,multicat,indoor,y,,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,indoor,n,normal,normal,shelter
+2023-2025,0,0,senior,y,f,nf,n,multicat,indoor,y,normal,high,
+2013-2022,,1,senior,n,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,high,
+2013-2022,0,0,kitten,n,f,nf,n,multicat,outdoor,y,normal,normal,stray
+2023-2025,0,0,adult,n,f,nf,n,single cat,outdoor,y,low,normal,stray
+2023-2025,0,0,senior,y,m,nm,n,single cat,outdoor,y,low,normal,breeder
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,y,low,normal,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,high,
+2013-2022,0,0,kitten,n,m,nm,n,multicat,indoor,y,high,normal,stray
+2013-2022,0,0,adult,y,m,nm,n,multicat,indoor,y,normal,normal,
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,,high,
+2023-2025,1,,,n,m,nm,n,multicat,indoor,y,low,normal,
+2023-2025,0,0,adult,n,f,nf,n,multicat,indoor,n,normal,high,
+2013-2022,0,0,kitten,n,f,if,i,multicat,outdoor,y,normal,high,stray
+2013-2022,0,0,senior,y,f,nf,n,multicat,,y,low,low,
+2013-2022,1,,senior,n,f,nf,n,single cat,outdoor,y,low,normal,
+2023-2025,1,,senior,n,f,if,i,multicat,outdoor,y,low,high,
+2013-2022,0,0,senior,n,f,nf,n,multicat,outdoor,y,high,normal,
+2023-2025,1,,kitten,n,m,im,i,multicat,indoor,y,high,low,
+2013-2022,0,0,adult,n,f,if,i,multicat,indoor,y,normal,low,
+2013-2022,1,,kitten,n,m,im,i,multicat,outdoor,n,low,normal,stray
+2023-2025,0,0,senior,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,n,normal,low,
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,normal,normal,stray
+2013-2022,1,1,adult,n,m,im,i,single cat,outdoor,y,low,low,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,
+2013-2022,1,1,adult,n,f,if,i,single cat,outdoor,y,low,normal,stray
+2013-2022,,1,kitten,n,m,nm,n,multicat,outdoor,y,normal,low,stray
+2013-2022,1,,adult,n,m,nm,n,single cat,outdoor,n,low,low,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,low,high,stray
+2023-2025,0,0,adult,n,m,nm,n,multicat,indoor,y,low,normal,
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,y,high,high,stray
+2013-2022,0,0,adult,n,m,nm,n,single cat,outdoor,y,normal,high,stray
+2013-2022,1,,senior,n,f,nf,n,multicat,indoor,y,high,normal,
+2013-2022,0,0,adult,n,f,nf,n,single cat,indoor,y,normal,normal,
+2023-2025,0,0,adult,n,f,if,i,multicat,outdoor,n,,,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,outdoor,y,low,high,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,low,normal,stray
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,y,low,high,stray
+2013-2022,0,0,senior,n,f,nf,n,single cat,outdoor,y,normal,normal,
+2013-2022,0,0,kitten,y,f,if,i,single cat,indoor,n,low,normal,breeder
+2013-2022,0,0,kitten,y,m,im,i,single cat,indoor,n,high,low,breeder
+2013-2022,1,,adult,n,m,nm,n,multicat,outdoor,y,,,shelter
+2023-2025,0,0,adult,n,f,if,i,multicat,outdoor,y,normal,high,stray
+2013-2022,1,,adult,n,m,nm,n,multicat,outdoor,y,normal,normal,stray
+2013-2022,0,0,senior,n,f,if,i,single cat,indoor,y,normal,normal,stray
+2013-2022,0,0,kitten,y,m,im,i,multicat,outdoor,y,normal,high,breeder
+2013-2022,0,0,senior,n,m,nm,n,single cat,outdoor,n,normal,normal,
+2023-2025,1,,adult,n,m,nm,n,single cat,outdoor,y,low,high,stray
+2013-2022,0,0,senior,n,f,if,i,multicat,outdoor,y,high,low,stray
+2013-2022,0,0,kitten,n,f,nf,n,single cat,indoor,n,normal,normal,
+2013-2022,0,0,kitten,n,m,im,i,multicat,outdoor,y,normal,high,stray
+2013-2022,1,,kitten,n,m,nm,n,multicat,,y,high,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,outdoor,n,normal,normal,stray
+2013-2022,0,0,kitten,n,f,if,i,multicat,indoor,n,normal,normal,stray
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,high,high,
+2023-2025,0,0,senior,n,m,nm,n,single cat,indoor,y,low,normal,
+2023-2025,0,0,senior,n,m,nm,n,single cat,,y,low,normal,
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,y,normal,normal,
+2013-2022,0,0,adult,n,f,if,i,single cat,indoor,y,low,normal,stray
+2013-2022,0,0,adult,y,m,im,i,single cat,indoor,n,,normal,
+2013-2022,0,0,kitten,n,m,im,i,multicat,indoor,n,low,low,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,low,normal,
+2023-2025,,1,adult,n,m,im,i,single cat,indoor,y,low,,
+2023-2025,0,0,senior,n,f,nf,n,single cat,outdoor,y,low,normal,stray
+2013-2022,0,0,adult,n,f,nf,n,multicat,outdoor,n,low,high,stray
+2023-2025,0,0,adult,n,f,nf,n,multicat,outdoor,n,normal,high,stray
+2013-2022,0,0,kitten,n,f,nf,n,multicat,outdoor,y,low,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,single cat,indoor,y,normal,normal,stray
+2013-2022,1,,adult,n,m,nm,n,single cat,indoor,n,normal,normal,
+2013-2022,1,,adult,n,f,if,i,single cat,outdoor,y,normal,normal,stray
+2013-2022,0,0,senior,n,m,nm,n,multicat,indoor,y,,normal,shelter
+2023-2025,0,0,senior,n,f,nf,n,multicat,indoor,y,normal,high,
+2013-2022,0,0,adult,n,m,nm,n,multicat,indoor,y,high,normal,

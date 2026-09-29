@@ -1,0 +1,15 @@
+variable,definition,permitted_values,missing_value,derivation
+period,Source study period,2013-2022 or 2023-2025,None,Assigned from source workbook
+felv,Outcome and eligibility for the FeLV analysis,0=retrovirus-negative non-case;1=recorded positive test status,Empty = excluded from this outcome analysis; not equivalent to a negative test,Earlier study eligibility plus retrovirus classification; later felv_positive flag
+fiv,Outcome and eligibility for the FIV analysis,0=retrovirus-negative non-case;1=recorded positive test status,Empty = excluded from this outcome analysis; not equivalent to a negative test,Earlier study eligibility plus retrovirus classification; later positive flag or control flag
+age_group,Age category at admission,kitten: <2 years; adult: >=2 and <10 years; senior: >=10 years,Empty,Categorized from unrounded recorded age; exact age excluded from release
+breed,Pedigree classification,y=pedigree;n=non-pedigree,Empty,Source breed
+sex,Recorded sex,f=female;m=male,Empty,Source Sex
+sex_neuter,Joint sex and neuter classification,if=intact female;im=intact male;nf=neutered female;nm=neutered male,Empty,Source sex_neuter
+neuter_status,Recorded neuter status,i=intact;n=neutered,Empty,Source neuter_status
+cohabitantcats,Household cat category,single cat;multicat,Empty,Source cohabitantcats
+lifestyle,Recorded outdoor access,indoor;outdoor,Empty,Source lifestyle
+concomitant_disorder,Recorded concomitant disorder,n=absent;y=present,Empty,Source concomitant_disorder
+c_hct,Hematocrit category,normal;low;high,Empty,Source category; normal 30-45 percent; low below 30; high above 45
+c_leuco,Leukocyte category,normal;low;high,Empty,Source category; normal 5.5-19.5 x 10^9/L; low below 5.5; high above 19.5
+origin,Broad recorded origin,stray;breeder;shelter;private_individual,Empty,Source origin; PARTICULAR mapped to private_individual; not used as a predictor
